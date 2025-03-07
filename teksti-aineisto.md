@@ -3,7 +3,7 @@
 
 # **Sisältö:**
 
-### **1. Johdanto – Miksi luontokuvaus?**
+## **Johdanto – Miksi luontokuvaus?**
 
 Luontokuvaus on hieno tapa tallentaa ympäristön kauneutta ja kehittää valokuvaustaitoja. Se voi olla rentouttavaa, inspiroivaa ja jopa opettavaista. Aloittelijoille se tarjoaa mahdollisuuden yhdistää ulkoilu, luonnon havainnointi ja luova ilmaisu. Tässä oppaassa käymme läpi perusasiat, joita tarvitset onnistuneeseen luontokuvaukseen.
 
@@ -139,7 +139,9 @@ Kuvankäsittely, sommittelu ja jakaminen ovat kaikki osa valokuvauksen kokonaisu
 ## **Yhteystiedot**
 
 Nettisivu: luontokuvausopas.fi
+
 Sähköposti: info@luontokuvausopas.fi
+
 Puhelinnumero: +358 123 456 789
 
 ## **Vuorovaikutuksellinen elementti**
